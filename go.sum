@@ -2,3 +2,7 @@ github.com/soda92/greetings v0.0.0-20211126132409-af3759d921c1 h1:PjzRJlRzMILAub
 github.com/soda92/greetings v0.0.0-20211126132409-af3759d921c1/go.mod h1:p8efFCg5DPW7RrAXR5MgJj/AnVya2kN/vhbaNv13fwQ=
 github.com/soda92/greetings v1.0.1 h1:/Sgfdcwxvn86JY6/h3tOtYtJg23ok1Ln3LHbqMxIJQU=
 github.com/soda92/greetings v1.0.1/go.mod h1:p8efFCg5DPW7RrAXR5MgJj/AnVya2kN/vhbaNv13fwQ=
+github.com/soda92/greetings v1.0.2 h1:TEaJFAp0OucJ5tWjoQZTicJtxb6sq2W04cj088UOMfw=
+github.com/soda92/greetings v1.0.2/go.mod h1:p8efFCg5DPW7RrAXR5MgJj/AnVya2kN/vhbaNv13fwQ=
+github.com/soda92/greetings v1.0.3 h1:iKjKI44ok1pYB91gLxjH7ts4vEn1QyWiG95xNM69pf0=
+github.com/soda92/greetings v1.0.3/go.mod h1:p8efFCg5DPW7RrAXR5MgJj/AnVya2kN/vhbaNv13fwQ=
